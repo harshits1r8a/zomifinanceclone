@@ -1,6 +1,6 @@
 ﻿# zomifinanceclone
-## Working Link 
-https://harshits1r8a.github.io/zomifinanceclone/dashboard.html
+- [Demo](
+https://harshits1r8a.github.io/zomifinanceclone/dashboard.html)
 
 ## Screenshots
 ![screencapture-harshits1r8a-github-io-zomifinanceclone-2023-12-02-06_40_47](https://github.com/harshits1r8a/zomifinanceclone/assets/91357996/6676d554-fcd3-4355-80d6-f21e751b4fec)
